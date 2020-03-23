@@ -1,0 +1,15 @@
+.footer {
+    background-color: #ee252d;
+    background-image: url(../img/bg.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.footer p {
+    padding: 45px 0;
+}
