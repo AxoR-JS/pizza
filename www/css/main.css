@@ -157,6 +157,7 @@ section {
     padding-bottom: 60px;
     color: #282828;
     transition: transform .2s, box-shadow .2s;
+    cursor: default;
 }
 
 .main-appeal__card:hover {
